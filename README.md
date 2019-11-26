@@ -2,7 +2,7 @@
 Some code that I write while learning Machine-Learning
 
 Shout out to this great learning resources.
-http://neuralnetworksanddeeplearning.com/
-https://victorzhou.com/blog/intro-to-neural-networks/
-https://github.com/CodeReclaimers/neat-python
-https://ml5js.org/
+http://neuralnetworksanddeeplearning.com/ <br/>
+https://victorzhou.com/blog/intro-to-neural-networks/ <br/>
+https://github.com/CodeReclaimers/neat-python <br/>
+https://ml5js.org/ <br/>
